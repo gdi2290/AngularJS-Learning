@@ -46,10 +46,12 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS](http://www.youtube.com/watch?v=mVjpwia1YN4)
 * [Angular Best Practices](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
+* [Neosavvy's Angular & Jasmine Screencast Series](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
 
 ## Courses
 
 * [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
+* [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -122,6 +124,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Filtering with AngularJS] (http://www.kidsil.net/2013/09/filtering-with-angularjs/)
 * [Ultimate guide to learning AngularJS in one day] (http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 * [7 Ways to be Successful with AngularJS] (http://learnangularjs.net/2013/10/24/7-ways-to-be-successful-with-angularjs/)
+* [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
+* [Learn AngularJS With These 5 Practical Examples] (http://tutorialzine.com/2013/08/learn-angularjs-5-examples)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -176,6 +180,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
 * [Configuring Dependency Injection in AngularJS] (http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
 * [Defining Instantiatable Classes In The AngularJS Dependency Injection Framework] (http://www.bennadel.com/blog/2527-Defining-Instantiatable-Classes-In-The-AngularJS-Dependency-Injection-Framework.htm)
+* [Deconstructing AngularJS Injector] (http://neverfriday.com/2013/11/30/deconstructing-angularjs-injector/)
 
 ## Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
@@ -213,6 +218,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Use jQuery Plugin With AngularJS the Easy (Lazy) Way] (http://iarouse.com/blog/2013/11/14/use-jquery-plugin-with-angularjs-the-easy-lazy-way/)
 * [Defer DOM Tree Binding In AngularJS With Delayed Transclusion] (http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 * Understanding AngularJS Directives: [Part 1:  Ng-repeat and Compile](http://liamkaufman.com/blog/2013/05/13/understanding-angularjs-directives-part1-ng-repeat-and-compile/), [Part 2: ngView](http://liamkaufman.com/blog/2013/11/11/understanding-angularjs-directives-part2-ng-view/)
+* [Advanced Directives: Combining AngularJS with existing Components] (http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -233,6 +239,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
 * [Cancelling Route Navigation in AngularJS Controllers] (http://weblogs.asp.net/dwahlin/archive/2013/11/07/cancelling-route-navigation-in-angularjs-controllers.aspx)
 * [AngularJS Routing And Views Tutorial With Example](http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example)
+* [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
+* [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
@@ -271,6 +279,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS Ajax dropdowns, date picker and saving data] (http://www.amitavroy.com/justread/content/articles/angular-js-ajax-dropdowns-date-picker-and-saving-data)
 * [The concepts of AngularJS Forms] (http://mrbool.com/the-concepts-of-angularjs-forms/29117)
 * [GitHub Like Signup Form With AngularJS and Bootstrap V3](http://mircozeiss.com/github-like-signup-form-with-angularjs-and-bootstrap-v3/)
+* [Submitting AJAX Forms: The AngularJS Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
+* [Create a Reusable AngularJS Input Form Component] (http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
+* [Form Navigator With Instant Feedback in AngularJS] (http://www.codeorbits.com/blog/2013/11/26/form-navigator-with-real-time-feedback-in-angularjs/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -294,6 +305,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [ngDefine: AngularJS & RequireJS] (https://github.com/Nikku/requirejs-angular-define)
 * [Modular AngularJS App Design] (http://clintberry.com/2013/modular-angularjs-application-design/)
 * [Using RequireJS with AngularJS DI] (http://solutionoptimist.com/2013/09/30/requirejs-angularjs-dependency-injection/)
+* [Structuring AngularJS Code] (http://weblogs.asp.net/dwahlin/archive/2013/12/01/structuring-angularjs-code.aspx)
 
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
@@ -317,6 +329,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [New features on Restangular: the ultimate Rest API client for Angular] (http://www.blogeek.com.ar/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
 * [Using an AngularJS Factory to Interact with a RESTful Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/16/using-an-angularjs-factory-to-interact-with-a-restful-service.aspx)
 * [Authentication to a RESTful web service in an AngularJS web app] (http://blog.brunoscopelliti.com/authentication-to-a-restful-web-service-in-an-angularjs-web-app)
+* [XHR Interceptor in an AngularJS web app] (http://blog.brunoscopelliti.com/xhr-interceptor-in-an-angularjs-web-app)
 
 ## Localization
 * [Localizing Your AngularJS Apps] (http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
@@ -347,6 +360,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Create a “load more” widget using AngularJS, Ajax and Bootstrap 3] (http://julienrenaux.fr/2013/10/27/create-a-load-more-widget-using-angularjs-ajax-and-bootstrap-3/)
 * [ngInfiniteScroll] (http://binarymuse.github.io/ngInfiniteScroll/index.html)
 * [jQuery UI Datepicker with AngularJS] (http://www.abequar.net/jquery-ui-datepicker-with-angularjs/)
+* [TimeSelector/TimePicker Directive] (http://www.whatibroke.com/?p=899)
+* [Photo Gallery with AngularJS and CSS3] (http://www.script-tutorials.com/photo-gallery-with-angularjs-and-css3/)
+* [A Scalable Approach to Page Transitions in AngularJS] (http://phillippuleo.com/articles/scalable-approach-page-transitions-angularjs)
 
 
 ## Integration With Other Languages/Frameworks
