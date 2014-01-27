@@ -5,6 +5,36 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also list them below in their own heading for now, since many of you will likely want to quickly see what is new in Angular 1.2. Once the dust settles, or the 1.2 section gets too big, I will remove it. But for now, the Angular 1.2 links can be found in two places.
 
+### Table of Contents
+[New in Angular 1.2](#new-in-angular-12)  
+[Books](#books)  
+[Videos](#videos)  
+[Courses](#courses)  
+[Help](#help)  
+[General Topics](#general-topics)  
+[Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
+[Lessons Learned](#lessons-learned)  
+[Multipart Articles](#multipart-articles)  
+[Sample Apps](sample-apps)  
+[Scopes & Compile](#scopes--compile)  
+[Dependency Injection](#dependency-injection)  
+[Directives](#directives)  
+[Services/Providers](#servicesproviders)  
+[Routing](#routing)  
+[Promises/Deferred](#promisesdeferred)  
+[Forms](#forms)  
+[Authentication](#authentication)  
+[Colletions](#collections--ngrepeat-stuff)  
+[Code Organization](#code-organization)  
+[Testing](#testing)  
+[RESTful Stuff](#restful-stuff)  
+[Localization](#localization)  
+[UI Stuff](#ui-stuff)  
+[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
+[Hosted Backends](#integration-with-other-languagesframeworks)  
+[Mobile](#mobile)  
+[Test Editor Bundles](#text-editor-bundleside-stuff)  
+
 ## New In Angular 1.2
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
@@ -48,6 +78,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS](http://www.youtube.com/watch?v=mVjpwia1YN4)
 * [Angular Best Practices](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
 * [Neosavvy's Angular & Jasmine Screencast Series](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
+* [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
 
 ## Courses
 
@@ -156,7 +187,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * Creating Extensible Widgets: [Part 1: jQuery to AngularJS in 30 seconds] (http://blog.thousandeyes.com/creating-extensible-widgets-part-1-jquery-to-angularjs/), [Part 2: AngularJS Directive Controllers] (http://blog.thousandeyes.com/creating-extensible-widgets-part-2-angularjs-directive-controllers/)
 * Build a Sweet Photo Slider with AngularJS Animate: [Part 1](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/), [Part 2:](http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 * A Practical Guide to AngularJS Directives: [Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/), [Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
-* AngularJS Tutorial by Jakob Jenkov: [Introduction](http://tutorials.jenkov.com/angularjs/index.html), [Views & Directives](http://tutorials.jenkov.com/angularjs/views-and-directives.html), [Events](http://tutorials.jenkov.com/angularjs/events.html), [AJAX](http://tutorials.jenkov.com/angularjs/ajax.html)
+* AngularJS Tutorial by Jakob Jenkov: [Introduction](http://tutorials.jenkov.com/angularjs/index.html), [Views & Directives](http://tutorials.jenkov.com/angularjs/views-and-directives.html), [Events](http://tutorials.jenkov.com/angularjs/events.html), [AJAX](http://tutorials.jenkov.com/angularjs/ajax.html), [Forms] (http://tutorials.jenkov.com/angularjs/forms.html)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -232,6 +263,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Advanced Directives: Combining AngularJS with existing Components] (http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 * [**Changes In Transclude() Function Availability In AngularJS 1.2] (http://www.bennadel.com/blog/2561-Changes-In-Transclude-Function-Availability-In-AngularJS-1-2.htm)
 * [Leveraging Directives To Reduce $Watch'ers In Angular] (http://frontendandvodka.com/watchers-when-performance-is-key/)
+* [Creating Semantic, Reusable Directives in AngularJS](http://jaysoo.ca/2014/01/20/semantic-angularjs-directives/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -300,6 +332,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Create a Reusable AngularJS Input Form Component] (http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
 * [Form Navigator With Instant Feedback in AngularJS] (http://www.codeorbits.com/blog/2013/11/26/form-navigator-with-real-time-feedback-in-angularjs/)
 * [AngularJS Form Validation] (http://scotch.io/tutorials/javascript/angularjs-form-validation)
+* [Processing Forms in AngularJS] (https://www.lullabot.com/blog/article/processing-forms-angularjs)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -427,8 +460,16 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Developing a mobile app with Phonegap, AngularJS and ExpressJS Part I] (http://abou-kone.com/2013/07/17/developing-a-mobile-app-with-phonegap-angularjs-and-expressjs-part-i/)
 * [Sample Mobile Application with AngularJS] (http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
 * [The Definitive Guide to Angular on Mobile] (http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-on-mobile.html)
+* [Ionic Framework with AngularJS app development](http://ionicframework.com/)
+
+## Popular Third-Party Modules
+* [Bindonce - watchless AngularJS](https://github.com/Pasvaz/bindonce)
+* [AngularJS Bootstrap](http://angular-ui.github.io/bootstrap/)
 
 ## Text editor bundles/IDE Stuff
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
 * [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
 * [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
+
+## Development Tools
+* [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
