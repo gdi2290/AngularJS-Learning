@@ -33,7 +33,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 [Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
 [Hosted Backends](#integration-with-other-languagesframeworks)  
 [Mobile](#mobile)  
+[Popular Third-Party Modules](#popular-third-party-modules)  
 [Test Editor Bundles](#text-editor-bundleside-stuff)  
+[Development Tools](#development-tools)  
 
 ## New In Angular 1.2
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
@@ -181,6 +183,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * Build a Sweet Photo Slider with AngularJS Animate: [Part 1](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/), [Part 2:](http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 * A Practical Guide to AngularJS Directives: [Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/), [Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
 * AngularJS Tutorial by Jakob Jenkov: [Introduction](http://tutorials.jenkov.com/angularjs/index.html), [Views & Directives](http://tutorials.jenkov.com/angularjs/views-and-directives.html), [Events](http://tutorials.jenkov.com/angularjs/events.html), [AJAX](http://tutorials.jenkov.com/angularjs/ajax.html), [Forms] (http://tutorials.jenkov.com/angularjs/forms.html)
+* Los Techies AngularJS Series: [Part 1](http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/), [Part 2: The Controller](http://lostechies.com/gabrielschenker/2013/12/09/angularjspart-2-the-controller/), [Part 3: Inheritance](http://lostechies.com/gabrielschenker/2013/12/10/angularjspart-3-inheritance/), [Part 4: Accessing Server Side Resources](http://lostechies.com/gabrielschenker/2013/12/12/angularjspart-4-accessing-server-side-resources/), [Part 5:Pushing Data to the Server](http://lostechies.com/gabrielschenker/2013/12/17/angularjspart-5-pushing-data-to-the-server/), [Part 6: Templates](http://lostechies.com/gabrielschenker/2013/12/28/angularjspart-6-templates/), [Part 7: Get Ready to Test](http://lostechies.com/gabrielschenker/2013/12/30/angularjspart-7-getting-ready-to-test/), [Part 8: More Choice When Testing](http://lostechies.com/gabrielschenker/2013/12/30/angularjspart-8-more-choice-when-testing/), [Part 9: Values and Constants](http://lostechies.com/gabrielschenker/2014/01/14/angularjspart-9-values-and-constants/), [Part 10: Intermezzo](http://lostechies.com/gabrielschenker/2014/01/20/angluarjspart-10-intermezzo/), [Part 11: Promises](http://lostechies.com/gabrielschenker/2014/02/04/angularjspart-11-promises/)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -420,7 +423,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Photo Gallery with AngularJS and CSS3] (http://www.script-tutorials.com/photo-gallery-with-angularjs-and-css3/)
 * [A Scalable Approach to Page Transitions in AngularJS] (http://phillippuleo.com/articles/scalable-approach-page-transitions-angularjs)
 * [Staggering Animations in AngularJS] (http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
-* [Build a Sweet Photo Slider with AngularJS Animate] {http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/}
+* [Build a Sweet Photo Slider with AngularJS Animate](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/)
 * [Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch] (http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 
 
