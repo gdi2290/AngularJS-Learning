@@ -70,6 +70,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Neosavvy's Angular & Jasmine Screencast Series](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
 * [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
 * [ng-conf YouTube Page](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
+* [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 
 ## Courses
 
@@ -132,6 +133,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Rich Object Models and Angular.js] (http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
 * [Rich Object Models and Angular: Identity Maps] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
 * [Interceptors in AngularJS and Useful Examples] (http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
+* ['Resolve' in AngularJS Routes, Explained as Story](http://www.undefinednull.com/2014/02/17/resolve-in-angularjs-routes-explained-as-story/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -293,6 +295,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
 * [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
 * [Advanced routing and resolves] (https://medium.com/opinionated-angularjs/a2fcbf874a1c)
+* [AngularJS Routing Using UI-Router] (http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
@@ -349,6 +352,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Authentication in Single Page Applications] (https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
 * [Authentication with AngularJS] (https://medium.com/p/4e927af3a15f)
 * [Cookies vs Tokens. Getting auth right with Angular.JS] (http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+* [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/7bbf0346acec)
 
 
 ## Collections (& ngRepeat Stuff)
