@@ -3,7 +3,7 @@ AngularJS-Learning
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also list them below in their own heading for now, since many of you will likely want to quickly see what is new in Angular 1.2. Once the dust settles, or the 1.2 section gets too big, I will remove it. But for now, the Angular 1.2 links can be found in two places.
+NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
 
 ### Table of Contents
 [Books](#books)  
@@ -35,6 +35,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 [Popular Third-Party Modules](#popular-third-party-modules)  
 [Test Editor Bundles](#text-editor-bundleside-stuff)  
 [Development Tools](#development-tools)  
+[Boilerplates](#boilerplates)  
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -48,6 +49,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [ng-book] (http://www.ng-book.com/)
 * [Build Your Own AngularJS] (http://teropa.info/build-your-own-angular/)
 * [Dependency Injection with AngularJS](http://www.packtpub.com/dependency-injection-angularjs/book)
+* [Learning Web Development with Bootstrap and Angular: RAW] (http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
+* [AngularJS Design Patterns] (http://www.packtpub.com/angularjs-design-patterns/book)
+* [AngularJS Web application development Blueprints : RAW] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
+* [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -76,6 +81,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 
 * [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
 * [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
+* [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
+* [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -134,6 +141,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Rich Object Models and Angular: Identity Maps] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
 * [Interceptors in AngularJS and Useful Examples] (http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 * ['Resolve' in AngularJS Routes, Explained as Story](http://www.undefinednull.com/2014/02/17/resolve-in-angularjs-routes-explained-as-story/)
+* [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* [Angular model objects with JavaScript classes] (https://medium.com/opinionated-angularjs/2e6a067c73bc)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -165,6 +174,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS tips and tricks for neophytes and the all-around curious developer.] (http://www.bytesforthought.com/angularjs-tips/)
 * [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
 * [AngularJS tips and tricks for neophytes and the all-around curious developer] (http://www.bytesforthought.com/angularjs-tips/)
+* [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -181,9 +192,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * Build a Sweet Photo Slider with AngularJS Animate: [Part 1](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/), [Part 2:](http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 * A Practical Guide to AngularJS Directives: [Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/), [Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
 * AngularJS Tutorial by Jakob Jenkov: [Introduction](http://tutorials.jenkov.com/angularjs/index.html), [Views & Directives](http://tutorials.jenkov.com/angularjs/views-and-directives.html), [Events](http://tutorials.jenkov.com/angularjs/events.html), [AJAX](http://tutorials.jenkov.com/angularjs/ajax.html), [Forms] (http://tutorials.jenkov.com/angularjs/forms.html), [Custom Directives](http://tutorials.jenkov.com/angularjs/custom-directives.html), [Critiques](http://tutorials.jenkov.com/angularjs/critique.html)
-* Los Techies AngularJS Series: [Part 1](http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/), [Part 2: The Controller](http://lostechies.com/gabrielschenker/2013/12/09/angularjspart-2-the-controller/), [Part 3: Inheritance](http://lostechies.com/gabrielschenker/2013/12/10/angularjspart-3-inheritance/), [Part 4: Accessing Server Side Resources](http://lostechies.com/gabrielschenker/2013/12/12/angularjspart-4-accessing-server-side-resources/), [Part 5:Pushing Data to the Server](http://lostechies.com/gabrielschenker/2013/12/17/angularjspart-5-pushing-data-to-the-server/), [Part 6: Templates](http://lostechies.com/gabrielschenker/2013/12/28/angularjspart-6-templates/), [Part 7: Get Ready to Test](http://lostechies.com/gabrielschenker/2013/12/30/angularjspart-7-getting-ready-to-test/), [Part 8: More Choice When Testing](http://lostechies.com/gabrielschenker/2013/12/30/angularjspart-8-more-choice-when-testing/), [Part 9: Values and Constants](http://lostechies.com/gabrielschenker/2014/01/14/angularjspart-9-values-and-constants/), [Part 10: Intermezzo](http://lostechies.com/gabrielschenker/2014/01/20/angluarjspart-10-intermezzo/), [Part 11: Promises](http://lostechies.com/gabrielschenker/2014/02/04/angularjspart-11-promises/), [Part 12: Multi-language Support](http://lostechies.com/gabrielschenker/2014/02/11/angularjspart-12-multi-language-support/)
+* Los Techies AngularJS Series: [Table of Contents: Parts 1-12](http://lostechies.com/gabrielschenker/2014/02/26/angular-js-blog-series-table-of-content/),
+[Part 1](http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/), [Part 2: The Controller](http://lostechies.com/gabrielschenker/2013/12/09/angularjspart-2-the-controller/), [Part 3: Inheritance](http://lostechies.com/gabrielschenker/2013/12/10/angularjspart-3-inheritance/), [Part 4: Accessing Server Side Resources](http://lostechies.com/gabrielschenker/2013/12/12/angularjspart-4-accessing-server-side-resources/), [Part 5:Pushing Data to the Server](http://lostechies.com/gabrielschenker/2013/12/17/angularjspart-5-pushing-data-to-the-server/), [Part 6: Templates](http://lostechies.com/gabrielschenker/2013/12/28/angularjspart-6-templates/), [Part 7: Get Ready to Test](http://lostechies.com/gabrielschenker/2013/12/30/angularjspart-7-getting-ready-to-test/), [Part 8: More Choice When Testing](http://lostechies.com/gabrielschenker/2013/12/30/angularjspart-8-more-choice-when-testing/), [Part 9: Values and Constants](http://lostechies.com/gabrielschenker/2014/01/14/angularjspart-9-values-and-constants/), [Part 10: Intermezzo](http://lostechies.com/gabrielschenker/2014/01/20/angluarjspart-10-intermezzo/), [Part 11: Promises](http://lostechies.com/gabrielschenker/2014/02/04/angularjspart-11-promises/), [Part 12: Multi-language Support](http://lostechies.com/gabrielschenker/2014/02/11/angularjspart-12-multi-language-support/), [Part 13: Services](http://lostechies.com/gabrielschenker/2014/02/26/angular-jspart-13-services/)
 * Creating a Visualization App Using the Google Charts API and AngularJS: [Part 1](http://www.sitepoint.com/creating-visualization-app-using-google-charts-api-angularjs/), [Part 2](http://www.sitepoint.com/creating-visualization-app-using-google-charts-api-angularjs-part-2/), [Part 3](http://www.sitepoint.com/creating-visualization-app-using-google-charts-api-angularjs-part-3/), [Part 4](http://www.sitepoint.com/creating-visualization-app-using-google-charts-api-angularjs-part4/)
 * AngularJs Bootstrap Components: [Part 1 : Building Popover Directive](http://subliminalsources.com/9/building-angularjs-bootstrap-components-popover-directive-part-1/), [Part 2 : Building Collapse(Accordion) Directive](http://subliminalsources.com/97/angularjs-bootstrap-components-part-2-building-collapse-accordion-directive/), [Part 3 : Building Tabs Directive](http://subliminalsources.com/175/angularjs-bootstrap-components-tutorials-part-3-building-tabs-directive/)
+* Building an Angular and Express App: [Part 1](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/) , [Part 2](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-2/)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -215,6 +228,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Scopes: An Introduction] (http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/)
 * [Angle Brackets, Rifle Scopes] (http://blog.ponyfoo.com/2014/02/14/angle-brackets-rifle-scopes)
 * [Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
+* [5 Guidelines For Avoiding Scope Soup in Angular] (http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html)
+* [Speeding up AngularJS's $digest loop] (https://coderwall.com/p/d_aisq)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -267,6 +282,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angle Brackets, Synergistic Directives] (http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 * [Transclusion in Angular] (http://engineering.nulogy.com/posts/transclusion-in-angular/)
 * [Designing AngularJS Directives] (http://engineering.nulogy.com/posts/designing-angularjs-directives/)
+* [How to integrate your UI Widgets with AngularJS] (http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
+* [Writing More Maintainable Angular.js Directives] (http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -296,6 +313,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
 * [Advanced routing and resolves] (https://medium.com/opinionated-angularjs/a2fcbf874a1c)
 * [AngularJS Routing Using UI-Router] (http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
+* [Extending Dynamic View Loading for CRUD actions in AngularJS] (http://circuitbomb.com/anjularjs-extending-dynamic-view-loading-crud-actions/)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
@@ -320,7 +338,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Showing Validation Messages In Bulk While Validating Form Using Angular JS] (http://sravi-kiran.blogspot.com/2013/06/ShowingValidationMessagesInBulkWhileValidatingFormUsingAngularJS.html)
 * [A directive to manage file upload in an AngularJS application] (http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
 * [Radio Buttons With AngularJS] (http://odetocode.com/blogs/scott/archive/2013/06/25/radio-buttons-with-angularjs.aspx)
-* [Referece the Current FormController in AngularJS] (http://shazwazza.com/post/Reference-the-current-form-controller-in-AngularJS)
+* [Reference the Current FormController in AngularJS] (http://shazwazza.com/post/Reference-the-current-form-controller-in-AngularJS)
 * [Listening for Validation Changes in AngularJS] (http://shazwazza.com/post/Listening-for-validation-changes-in-AngularJS)
 * [What A Select $watch() Teaches Me About ngModel And AngularJS] (http://www.bennadel.com/blog/2492-What-A-Select-watch-Teaches-Me-About-ngModel-And-AngularJS.htm)
 * [On the Bleeding Edge: Advanced AngularJS Form Validation] (http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
@@ -344,6 +362,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Object Equivalency and Select Options in AngularJS ("Why Isn't the Correct Option Selected?")] (http://www.thoughtdelimited.org/thoughts/post.cfm/object-equivalency-and-select-options-in-angularjs-why-isn-t-the-correct-option-selected)
 * [Validation in angular.js ng-repeat](http://www.mikitamanko.com/blog/2014/02/11/validation-in-angular-js-ng-repeat/)
 * [Handling Checkboxes and Radio Buttons in Angular Forms] (http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms)
+* [HTML Forms in AngularJS](http://www.sitepoint.com/html-forms-angularjs/)
+* [Common Problems (And Solutions) When Using Select Elements With Angular.JS](http://gurustop.net/blog/2014/01/28/common-problems-and-solutions-when-using-select-elements-with-angular-js-ng-options-initial-selection/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -361,6 +381,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
 * [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-Using-ngController-With-ngRepeat-In-AngularJS.htm)
 * [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)
+* [Improving ng-repeat Performance with “track by”] (http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
+
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -402,6 +424,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Test Filters in AngularJS] (http://www.ecofic.com/about/blog/test-filters-in-angularjs)
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html?)
 * [AngularJS Unit Testing Series] (http://angular-tips.com/blog/2014/02/introduction-to-unit-test-toc/)
+* [A Tip for Angular Unit Tests with Promises] (http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html)
+* [Writing Tests and Stomping Bugs in AngularJS] (http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
+* [Unit Testing Services in AngularJS for Fun and for Profit] (http://nathanleclaire.com/blog/2014/04/12/unit-testing-services-in-angularjs-for-fun-and-for-profit/)
 
 
 ## RESTful Stuff
@@ -452,6 +477,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Wallop Slider in AngularJS](http://andyshora.com/wallop-slider-angularjs-css.html)
 * [Easy Animations For AngularJS With Animate.css] (http://odetocode.com/blogs/scott/archive/2014/02/25/easy-animations-for-angularjs-with-animate-css.aspx)
 * [Conditionally Apply a CSS Class with AngularJS] (http://www.ecofic.com/about/blog/conditionally-apply-a-css-class-with-angularjs)
+* [Animating AngularJS Apps: ngView] (http://scotch.io/tutorials/javascript/animating-angularjs-apps-ngview)
 
 
 
@@ -498,6 +524,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
 * [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
 * [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
+* [Visual Studio](http://www.microsoft.com/visualstudio)
 
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
+* [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold)
+
+## Boilerplates
+* [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
