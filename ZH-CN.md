@@ -47,13 +47,13 @@ AngularJS
 ## Angular 1.2 的新功能
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
-* [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
-* [**AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
+* [**AngularJS路由的变化] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
+* [**AngularJS缺失的指令: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
 * [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
-* [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
-* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
-* [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
+* [**AngularJS 1.2中的5个超酷新特性] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
+* [**在AngularJS 1.2.0中使用ngAnimate替代jQuery.slideDown()] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
+* [**为AngularJS 1.2做好准备] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
 
 ## 书籍 Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -65,6 +65,12 @@ AngularJS
 * [发现自己的 AngularJS 优势] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 * [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
 * [ng-book] (http://www.ng-book.com/)
+* [打造你的AngularJS] (http://teropa.info/build-your-own-angular/)
+* [AngularJS依赖注入](http://www.packtpub.com/dependency-injection-angularjs/book)
+* [通过Bootstrap和AngularJS学习Web开发] (http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
+* [AngularJS 设计模式] (http://www.packtpub.com/angularjs-design-patterns/book)
+* [AngularJS 网路应用开发蓝图] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
+* [实用 AngularJS](https://leanpub.com/Practical_AngularJS)
 
 ## 影片 Videos
 * [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -83,10 +89,21 @@ AngularJS
 * [用 AngularJS 和 Firebase 开发实时程序] (http://www.youtube.com/watch?v=C7ZI7z7qnHU)
 * [MongoDB 和 AngularJS， MEAN 堆](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [AngularJS, EmberJS 和 KnockoutJS 双向绑定的比较](http://www.youtube.com/watch?v=mVjpwia1YN4)
+* [Angular最佳实践](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
+* [Neosavvy的 Angular & Jasmine 视频系列](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
+* [AngularJS 视频集合](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
+* [ng-conf YouTube 页面](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
+* [通过50个例子学习 Angular.js  (第1部分)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 
 ## 在线课程 Courses
 
 * [Thinkster.io - 学习 AngularJS 更好的方法](http://www.thinkster.io/) - 免費的線上 AngularJS 課程 
+* [AngularJS互动教程](http://ng-tutorial.mgechev.com/)
+* [和Dan Wahlin一起学习AngularJS] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
+* [Tuts+: 开始使用 Angular] (https://tutsplus.com/course/hands-on-angular/)
+* [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
+* [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 
 ## 帮助 Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -139,6 +156,26 @@ AngularJS
 * [使用装饰提升 AngularJS $log] (http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
 * [使用 AngularJS 和 Stacktrace.js 记录客户端错误] (http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm)
 * [AngularJS表单自动完成，并记住密码] (http://timothy.userapp.io/post/63412334209/form-autocomplete-and-remember-password-with-angularjs)
+* [优化AngularJS: 从1200ms到35ms](http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/)
+* [为AngularJS应用创建一个RequireJS服务] (http://www.bennadel.com/blog/2551-Creating-A-RequireJS-Service-For-AngularJS-Applications.htm)
+* [在你的应用开始后加载AngularJS组件] (http://www.bennadel.com/blog/2553-Loading-AngularJS-Components-After-Your-Application-Has-Been-Bootstrapped.htm)
+* [根据需求加载AngularJS模块] (http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
+* [用Grunt来配置AngularJS环境] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
+* [服务器在单页应用(SPAs)中的作用?](http://weblogs.asp.net/dwahlin/archive/2014/02/18/what-s-the-role-of-the-server-in-single-page-applications-spas.aspx)
+* [通过Websockets将Angular.js实时化](http://blog.pusher.com/making-angular-js-realtime-with-pusher/)
+* [丰富的对象模型和Angular.js] (http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
+* [丰富的对象模型和Angular: 一致性映射] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
+* [AngularJS中的障碍和实用例子] (http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
+* [通过故事理解AngularJS路径](http://www.undefinednull.com/2014/02/17/resolve-in-angularjs-routes-explained-as-story/)
+* [重构AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* [Angular模型和javascript的类] (https://medium.com/opinionated-angularjs/2e6a067c73bc)
+* [angularjs控制器的状态] (http://jonathancreamer.com/the-state-of-angularjs-controllers/)
+* [怎么使用AngularJS的ngMessages] (http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
+* [深度挖掘Angular的控制器] (http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
+* [AngularJS自定义过滤器](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
+* [理解Angular的$scope和$rootScope事件系统中的$emit,$broadcast和$on ](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
+* [AngularJS无阻碍数据预载](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
+
 
 ## 介绍/开始学习 AngularJS
 * [AngularJS 入门] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
