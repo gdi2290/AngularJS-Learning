@@ -53,6 +53,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Design Patterns] (http://www.packtpub.com/angularjs-design-patterns/book)
 * [AngularJS Web application development Blueprints : RAW] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
 * [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
+* [AngularJS UI Development](http://www.packtpub.com/angularjs-ui-development/book)
+* [D3 on AngularJS](https://leanpub.com/d3angularjs)
+* [Mastering AngularJS Directives](http://www.packtpub.com/mastering-angularjs-directives/book)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -76,6 +79,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
 * [ng-conf YouTube Page](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
 * [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
+* [Real-Time Web Apps With AngularJS and Firebase](https://courses.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
 
 ## Courses
 
@@ -97,7 +101,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 ## General Topics
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
-* [5 reasons to use AngularJS in the corporate app world] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
 * [HashKeyCopier - An AngularJS Utility Class For Merging Cached And Live Data] (http://www.bennadel.com/blog/2472-HashKeyCopier-An-AngularJS-Utility-Class-For-Merging-Cached-And-Live-Data.htm)
 * [Exploring Directives, $scope, DOM Rendering, And Timing In AngularJS] (http://www.bennadel.com/blog/2444-Exploring-Directives-scope-DOM-Rendering-And-Timing-In-AngularJS.htm)
@@ -105,15 +108,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 * [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
-* [AngularJS and SEO] (http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
-* [Templates, Routing and Sharing Data Between Views in an Angular JS Application] (http://sravi-kiran.blogspot.com/2013/03/TemplatesRoutingAndSharingDataBetweenViewsInAnAngularJsApplication.html)
-* [Improving End User Experience with AngularJS] (http://blog.thousandeyes.com/improving-end-user-experience-with-angularjs/)
-* [AngularJS Controller Tutorial With Example] (http://viralpatel.net/blogs/angularjs-controller-tutorial/)
 * [HTML5 local storage with Angular JS] (http://amitavroy.com/justread/content/articles/html5-local-storage-angular-js)
-* [Dynamic routes with AngularJS and Silex] (http://gonzalo123.com/2013/07/08/dynamic-routes-with-angularjs-and-silex/)
 * [Modeling Data and State in Your AngularJS Application] (http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/)
 * [Code Reuse in AngularJS] (http://www.phase2technology.com/blog/code-reuse-in-angularjs/)
-* [Dynamically Loading Controllers and Views with AngularJS and RequireJS] (http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
+/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
 * [Sorting by Multiple Fields with Different Sort Orders Using the AngularJS orderby Filter] (http://htmlcssjavascript.com/javascript/sorting-by-multiple-fields-with-different-sort-orders-using-the-angularjs-orderby-filter/)
 * [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
 * [AngularJS: Advanced Design Patterns & Best Practices] (http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
@@ -127,8 +125,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Responsive Website Using AngularJS] (http://www.innerhtml.com/responsive-website-using-angularjs.html)
 * [Minimizing initialization time in AngularJS] (https://medium.com/p/f8ae57e2cec3)
 * [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
-* [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
-* [10 Reasons Web Developers Should Learn AngularJS] (http://wintellect.com/blogs/jlikness/10-reasons-web-developers-should-learn-angularjs)
 * [Lazy prefetching of AngularJS partials] (http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
 * [Enhancing AngularJS $log using Decorators] (http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
 * [Logging Client-Side Errors With AngularJS And Stacktrace.js] (http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm)
@@ -345,6 +341,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [The AngularJs Promise Anti-Pattern That Makes Me Cry] (http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/)
 * [Promises & Design Patterns in AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 * [Canceling $http Requests in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/04/24/canceling-http-requests-in-angularjs.aspx)
+* [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
 
 ## Forms
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
@@ -388,6 +385,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Using CSRF protection with Express and AngularJS](http://www.mircozeiss.com/using-csrf-with-express-and-angular/)
 * ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
+* [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -527,7 +525,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
 * [Using AngularJS with Django](http://glynjackson.org/weblog/entry/django-angular.html)
 * [Using AngularJS/Bootstrap as frontend and CakePHP as REST API producer](https://github.com/hantsy/angularjs-cakephp-sample/wiki)
+* [Creating Charting Directives Using AngularJS and D3.js](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
+* [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 
+ 
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
